@@ -17,7 +17,7 @@ This project is a solution for the UI automation challenge, using [Cypress](http
 
 ## Description
 
-This project aims to automate UI tests for the [Application Name]. The tests cover critical scenarios to ensure the application's quality and functionality.
+This project aims to automate UI tests for the 1Global website. The tests cover critical scenarios to ensure the application's quality and functionality.
 
 ## Technologies Used
 
