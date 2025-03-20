@@ -1,6 +1,6 @@
 ---
 
-# 1Global_UI_Automation_Challenge
+# UI Automation using Cypress + Cucumber + BDD
 
 This project is a solution for the UI automation challenge, using [Cypress](https://www.cypress.io/) for end-to-end web application testing.
 
